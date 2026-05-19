@@ -4,7 +4,7 @@ from tkinter import *
 
 root = Tk()
 
-root.title("Aesthetic To-Do List")
+root.title("To-Do List")
 
 root.geometry("1000x700")
 
